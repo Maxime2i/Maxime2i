@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Maxime</h1>
-<h3 align="center">A passionate developer from 42</h3>
+<h1 align="center">Hi 👋, I'm Maxime !</h1>
+<h3 align="center">A student developer from 42 Le Havre</h3>
+
+- 🔭 I’m currently working on [Inception](https://github.com/Maxime2i/Inception.git)
+
+- 🌱 I’m currently learning **Dockers**
+
+- 📫 How to reach me **maxime.lngls21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/maxime langlois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime langlois" height="30" width="40" /></a>
+<a href="https://discord.gg/maxime2i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="maxime2i" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
