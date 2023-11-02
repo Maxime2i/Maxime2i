@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxime2i&label=Profile%20views&color=0e75b6&style=flat" alt="maxime2i" /> </p>
 
-- 🔭 I’m currently working on **[IRC][https://github.com/Maxime2i/ft.irc.git](https://github.com/Maxime2i/ft_irc.git)**
+- 🔭 I’m currently working on **[IRC](https://github.com/Maxime2i/ft_irc.git)**
 
 - 🌱 I’m currently learning **Sockets in C++**
 
