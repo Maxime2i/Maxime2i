@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Developpement**
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **maxime.lngls21@gmail.com**
 
