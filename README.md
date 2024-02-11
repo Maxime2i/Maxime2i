@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxime2i&label=Profile%20views&color=0e75b6&style=flat" alt="maxime2i" /> </p>
 
-- 🔭 I’m currently working on **Web Developpement**
+- 🔭 I’m currently working on **ft_transcendence**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js and Three.js**
 
 - 📫 How to reach me **maxime.lngls21@gmail.com**
 
