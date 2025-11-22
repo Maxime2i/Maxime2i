@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxime2i&label=Profile%20views&color=0e75b6&style=flat" alt="maxime2i" /> </p>
 
-- 🔭 I’m currently working on **my title RNCP 6**
-
-- 🌱 I’m currently learning **web developpement**
-
 - 📫 How to reach me **maxime+lngls21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
