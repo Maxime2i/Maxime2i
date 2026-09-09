@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1f6feb,100:0d1117&text=MAXIME%20LANGLOIS&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1f6feb,100:0d1117&text=MAXIME%20LANGLOIS&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Freelance%20Web%20%26amp%3B%20Mobile%20Developer%20%C2%B7%20France&descSize=19&descColor=dfe8f5&descAlignY=58&animation=fadeIn" alt="banner" width="100%" />
 
 <div align="center">
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Freelance+web+%26+mobile+developer;Next.js+%C2%B7+React+Native+%C2%B7+TypeScript;Building+for+clients+%26+for+myself;Available+for+freelance+projects" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Next.js+%C2%B7+React+Native+%C2%B7+TypeScript;NestJS+%C2%B7+Supabase+%C2%B7+Python;Building+for+clients+%26+for+myself;Available+for+freelance+projects" alt="typing intro" />
 </p>
 
-<a href="https://maximelanglois.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-maximelanglois.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.maximelanglois.fr/"><img src="https://img.shields.io/badge/Portfolio-www.maximelanglois.fr-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 &nbsp;
 <a href="mailto:maxime.lngls21@gmail.com"><img src="https://img.shields.io/badge/Email-maxime.lngls21%40gmail.com-30363d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
 &nbsp;
@@ -83,18 +83,20 @@ I trained at 42, where I cut my teeth on C and low-level systems before falling 
 
 <div align="center">
 
-<img src="http://o8g9s56tzlhx8ynxb2nhm9o5.141.227.190.141.sslip.io/api?username=Maxime2i&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" height="170" />
-<img src="http://o8g9s56tzlhx8ynxb2nhm9o5.141.227.190.141.sslip.io/api/top-langs?username=Maxime2i&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top languages" height="170" />
+<img src="http://o8g9s56tzlhx8ynxb2nhm9o5.141.227.190.141.sslip.io/api?username=Maxime2i&count_private=true&include_all_commits=true&hide_rank=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" height="170" />
+<img src="http://o8g9s56tzlhx8ynxb2nhm9o5.141.227.190.141.sslip.io/api/top-langs?username=Maxime2i&layout=compact&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top languages" height="170" />
 
 </div>
 
 ---
 
+<div align="center">
+
 **Got a project in mind? Let's build it.**
 
 <a href="mailto:maxime.lngls21@gmail.com"><img src="https://img.shields.io/badge/→_Contact_me-maxime.lngls21%40gmail.com-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 &nbsp;
-<a href="https://maximelanglois.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-maximelanglois.vercel.app-30363d?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+<a href="https://www.maximelanglois.fr/"><img src="https://img.shields.io/badge/Portfolio-www.maximelanglois.fr-30363d?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
 
 </div>
 
