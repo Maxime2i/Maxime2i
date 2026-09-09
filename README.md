@@ -83,8 +83,7 @@ I trained at 42, where I cut my teeth on C and low-level systems before falling 
 
 <div align="center">
 
-<img src="http://o8g9s56tzlhx8ynxb2nhm9o5.141.227.190.141.sslip.io/api?username=Maxime2i&count_private=true&include_all_commits=true&hide_rank=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" height="170" />
-<img src="http://o8g9s56tzlhx8ynxb2nhm9o5.141.227.190.141.sslip.io/api/top-langs?username=Maxime2i&layout=compact&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top languages" height="170" />
+<img src="http://osxszlmetl86f9e6tq6dqxui.141.227.190.141.sslip.io/card" alt="GitHub stats" width="100%" />
 
 </div>
 
